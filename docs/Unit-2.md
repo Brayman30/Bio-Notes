@@ -6,6 +6,8 @@ AP Exam Score Percentage: 10-13%
 
 ## Chapter 4 - A tour of the Cell
 ### Prokaryotes v Eukaryotes
+
+
 | Prokaryotes | Eukaryotes |
 | ------ | ------ |
 | No Nucleus | Nucleus |
@@ -14,6 +16,7 @@ AP Exam Score Percentage: 10-13%
 | Evolved BEFORE (Pro-) Eukaryotes | Evolved AFTER Prokaryotes WITH (Eu-) a Nucleus |
 | Bacteria, Archea | Protists, Fungi, Animals, Protists |
 | ONLY Ribosomes | Other Organelles |
+
 
 ### Cytosol
 **Cytosol** is the liquid-like substance in the cell that holds all the organelles in place and allows for chemical reactions to take place.
