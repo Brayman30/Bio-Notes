@@ -40,8 +40,11 @@ Produces Latic Acid or Ethyl Alcohol and much less ATP
 
 #### Anaerobic Cellular Respiration Diagram
 Latic Acid:
+
 ![](Pics/Latic-Cellular-Resp-Diagram.png|width=500)
+
 Ethyl Alcohol
+
 ![](Pics/Eth-Cellular-Resp-Diagram.png|width=500)
 
 #### Anaerobic Cellular Respiration Formula
@@ -65,12 +68,15 @@ Reduction Gains Electrons
 ## Chapter 8 - Photosynthesis
 
 #### Photosythesis Diagram
+
 ![](Pics/Photosythesis-Diagram.png|width=500)
 
 ### Light Reactions Diagram
+
 ![](Pics/Light-React-Photosythesis-Diagram.png|width=500)
 
 ### Calvin Cycle Diagram
+
 ![](Pics/Calvin-Cycle-Photosythesis-Diagram.png|width=500)
 
 ### Photorespiration
@@ -91,8 +97,10 @@ CAM and C$_4$ plants have each evolved in seperate ways to beat Photorepiration 
 
 ##### CAM Plants
 CAM Plants use temporal (time) sepertaiton in order to seperate rubisco from the rest of the plant so it is unable to use up oxygen.
+
 ![](Pics/CAM-Plants.png|width=500)
 
 #### $\text{C}_4$ Plants
 $\text{C}_4$ plants use spatial sepeartion in order to sepearte rubisco from the rest of the plant. 
+
 ![](Pics/C4-Plants.png|width=500)
