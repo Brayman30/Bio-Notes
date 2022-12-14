@@ -28,7 +28,7 @@ Energy is stored in the bond between the second and third phosphates
 ### Aerobic Cellular Respiration
 
 #### Aerobic Cellular Respiration Diagram
-![[Cellular-Resp-Diagram.png|500]]
+!()[Pics/Cellular-Resp-Diagram.png|width=500]
 
 #### Aerobic Cellular Respiration Formula
 
@@ -40,9 +40,9 @@ Produces Latic Acid or Ethyl Alcohol and much less ATP
 
 #### Anaerobic Cellular Respiration Diagram
 Latic Acid:
-![[Latic-Cellular-Resp-Diagram.png|500]]
+![](Pics/Latic-Cellular-Resp-Diagram.png|width=500)
 Ethyl Alcohol
-![[Eth-Cellular-Resp-Diagram.png|500]]
+![](Pics/Eth-Cellular-Resp-Diagram.png|width=500)
 
 #### Anaerobic Cellular Respiration Formula
 Latic Acid:
@@ -65,19 +65,20 @@ Reduction Gains Electrons
 ## Chapter 8 - Photosynthesis
 
 #### Photosythesis Diagram
-![](Photosythesis-Diagram.png|width=500)
+![](Pics/Photosythesis-Diagram.png|width=500)
 
 ### Light Reactions Diagram
-![](Light-React-Photosythesis-Diagram.png|width=500)
+![](Pics/Light-React-Photosythesis-Diagram.png|width=500)
 
 ### Calvin Cycle Diagram
-![](Calvin-Cycle-Photosythesis-Diagram.png|width=500)
+![](Pics/Calvin-Cycle-Photosythesis-Diagram.png|width=500)
 
 ### Photorespiration
 The enzyme Rubisco cannot tell the difference between $CO_2$ and $O_2$ and therefore if the stomata is closed and the Rubisco can only use $O_2$ it will.
 This will eventually kill the plant since the Cellular Respiration process will also be unable to get any $O_2$ since the stomata is closed and the rubisco has used all the $O_2$.
 Photorespiration occurs in C$_3$ (Normal/Simple) plants (pictured below.)
-![](C3 Plants.png|width=500)
+
+![](Pics/C3-Plants.png|width=500)
 
 #### Solutions to Photorespiration
 CAM and C$_4$ plants have each evolved in seperate ways to beat Photorepiration in hot/dry enviroments.
@@ -90,8 +91,8 @@ CAM and C$_4$ plants have each evolved in seperate ways to beat Photorepiration 
 
 ##### CAM Plants
 CAM Plants use temporal (time) sepertaiton in order to seperate rubisco from the rest of the plant so it is unable to use up oxygen.
-![](CAM Plants.png|width=500)
+![](Pics/CAM-Plants.png|width=500)
 
 #### $\text{C}_4$ Plants
 $\text{C}_4$ plants use spatial sepeartion in order to sepearte rubisco from the rest of the plant. 
-![](C4 Plants.png|width=500)
+![](Pics/C4-Plants.png|width=500)
