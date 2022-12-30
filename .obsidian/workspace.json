@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unit 4.md",
+                "file": "docs/Unit-1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unit 4.md",
+                "file": "docs/Unit-1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unit 4.md",
+                "file": "docs/Unit-1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unit 4.md"
+                "file": "docs/Unit-1.md"
               }
             }
           }
@@ -137,16 +137,27 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e72f8314bb46c115",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "6b082f4a1fb148ab",
   "lastOpenFiles": [
+    "docs/index.md",
+    "docs/Unit-2.md",
+    "docs/Unit-1.md",
     "Pics/Photosythesis-Diagram.png",
     "Unit 4.md",
     "Unit 2.md",
     "Unit 1.md",
     "Unit 3.md",
     "Pics/C3 Plants.png",
-    "Pics/C4 Plants.png",
-    "Pics/Eth-Cellular-Resp-Diagram.png",
-    "Pics/Light-React-Photosythesis-Diagram.png"
+    "Pics/C4 Plants.png"
   ]
 }
